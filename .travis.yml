@@ -1,0 +1,8 @@
+services:
+  - docker
+
+install:
+  - docker build --no-cache --force-rm -t katzefudder/docker-php .
+
+script:
+  - docker run katzefudder/docker-php php -v
