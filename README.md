@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/katzefudder/katzefudder-container-php70.svg?branch=master)](https://travis-ci.org/katzefudder/katzefudder-container-php55)
 
+# Laravel 5 Container
+
+* Ubuntu 16.04 LTS
+* PHP7
+* Apache2
+
 # SSH Key
 Add the following key to `/home/username/.ssh/docker`:
 ```
