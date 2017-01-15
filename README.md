@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/katzefudder/katzefudder-container-php70.svg?branch=master)](https://travis-ci.org/katzefudder/katzefudder-container-php55)
+[![Build Status](https://travis-ci.org/katzefudder/katzefudder-container-php70.svg?branch=master)](https://travis-ci.org/katzefudder/katzefudder-container-php70)
 
 # Laravel 5 Container
 
